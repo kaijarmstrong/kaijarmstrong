@@ -1,18 +1,8 @@
 ## Hey, I'm Kai!
-I'm a cybersecurity student at the City of Refuge Tech Transformation Academy powered by NPursuit, currently building my foundation in IT and cybersecurity.
-What I'm Learning
-Linux
-Networking
-Python
-Cybersecurity fundamentals
-Areas of Interest
-Security Operations (SOC)
-Threat Detection
-Incident Response
-Security Engineering
-Current Focus
-Developing my technical skills through coursework, hands-on practice, and personal projects.
-Connect With Me
+I'm currently studying cybersecurity at the City of Refuge Tech Transformation Academy powered by NPursuit.
+I'm building my skills in Linux, networking, Python, and cybersecurity. I'm especially interested in threat detection, security operations, incident response, and learning how organizations defend against cyberattacks.
+I'm using GitHub to document my learning, share projects, and track my progress as I grow in the field.
+Connect with me on LinkedIn: 
 https://www.linkedin.com/in/kai-armstrong-1a3b77449/
 
 <!--
