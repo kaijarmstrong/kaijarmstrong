@@ -1,4 +1,4 @@
-## Hey, my name's Kai!
+## Hey, I'm Kai!
 I'm a cybersecurity student at the City of Refuge Tech Transformation Academy powered by NPursuit, currently building my foundation in IT and cybersecurity.
 What I'm Learning
 Linux
