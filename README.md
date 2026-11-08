@@ -1,4 +1,4 @@
-## Hey, I'm Kai!
+## My name is Kai!
 I'm currently studying cybersecurity at the City of Refuge Tech Transformation Academy powered by NPursuit.
 I'm building my skills in Linux, networking, Python, and cybersecurity. I'm especially interested in threat detection, security operations, incident response, and learning how organizations defend against cyberattacks.
 I'm using GitHub to document my learning, share projects, and track my progress as I grow in the field.
